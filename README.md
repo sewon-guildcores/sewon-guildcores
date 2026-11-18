@@ -1,6 +1,6 @@
 ## Sewon Kim
 
-Software engineer based in Tokyo. Building developer tools, MCP servers, and real-time consumer products across the Japanese market.
+Software engineer based in Tokyo, building at GuildCores. Building developer tools, MCP servers, and real-time consumer products across the Japanese market.
 
 ---
 
@@ -19,6 +19,6 @@ Full-stack across Rails, React Native, and TypeScript. AWS infrastructure, Graph
 
 ### Contact
 
-[![Email](https://img.shields.io/badge/contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewon@supernova-tokyo.jp)
+[![Email](https://img.shields.io/badge/contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sewon@guildcores.com)
 
 <sub>Based in Tokyo · 東京</sub>
